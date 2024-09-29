@@ -1,4 +1,6 @@
 ## Hi there 👋
+## 这是我的自述文件，测试一下
+## 哈哈哈
 
 <!--
 **gaichao168/gaichao168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
