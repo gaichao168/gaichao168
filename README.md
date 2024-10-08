@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 这是我的自述文件，测试一下
 ## 哈哈哈
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gaichao168&repo=hyperf)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gaichao168&repo=hyperf)](https://github.com/gaichao168/hyperf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaichao168)](https://github.com/anuraghazra/github-readme-stats)
 
